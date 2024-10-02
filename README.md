@@ -4,7 +4,7 @@
 ### The journey so far
 Being a firefighter for over seven years, I have developed the skills of team work, problem-solving, understanding emergency response, analysing of Incident reports and 
 performance metrics for improvements in operations. Data Analysis is a field that can be explored by individuals of diverse backgrounds in which I have developed a keen 
-interest in. Due to the steady rise in the demand for Data Analysts, I decided to embark on equipping myself with knowledge and on how to use the necessary tools in this 
+interest in. Due to the steady rise in the demand for Data Analysts, I decided to embark on equipping myself with knowledge on how to use the necessary tools in this 
 field. The skills I have honed made the transition in Data Analysis a smooth one.
 
 ### Tools 
